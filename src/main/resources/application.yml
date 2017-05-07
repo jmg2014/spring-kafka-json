@@ -1,0 +1,15 @@
+server:
+  port: 7000
+
+kafka:
+  bootstrap-servers: 192.168.0.82:9092
+  acks: 1
+  retries: 3
+
+topic:
+  json: car.topic
+
+
+
+
+
